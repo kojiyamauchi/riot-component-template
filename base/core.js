@@ -10,7 +10,7 @@ import riot from 'riot'
 import RiotControl from 'riotcontrol'
 
 // Import Srores.
-import TodoStore from '../js/flux/stores'
+import TodoStore from '@/js/flux/stores'
 
 // Import Components Tags.
 import '@/tags/app.tag'

@@ -14,8 +14,8 @@
   <!-- JavaScript -->
   <script>
     // ↓ Flux Architecture Start ↓
-    import TodoAction form '../js/flux/actions'
-    import TodoStore form '../js/flux/stores'
+    import TodoAction form '@/js/flux/actions'
+    import TodoStore form '@/js/flux/stores'
     import RiotControl form 'riotcontrol'
 
     const self = this
